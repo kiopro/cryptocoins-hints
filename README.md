@@ -8,7 +8,6 @@ _  ___/__  ___/__  / / /___  __ \_  __/_  __ \_  ___/_  __ \__  / __  __ \__  __
 ```
 
 # TESTNET FAUCETS + EXPLORERS
----
 
 
 ### BTC
@@ -44,7 +43,6 @@ explorer: http://explorer.litecointools.com/
 
 
 # REALWORL EXPLORERS
----
 
 
 ### BTC 
