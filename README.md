@@ -1,4 +1,4 @@
-# ### TESTNET FAUCETS + EXPLORERS###
+# <###> TESTNET FAUCETS + EXPLORERS <###>
 
 ### BTC
 
@@ -32,7 +32,7 @@ faucet: http://testnet.litecointools.com/ <br />
 explorer: http://explorer.litecointools.com/
 
 
-# ### REALWORL EXPLORERS###
+# <###> REALWORL EXPLORERS <###>
 
 ### BTC 
 
