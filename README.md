@@ -2,13 +2,11 @@
 
 ### BTC
 
-#### faucets
-
+faucets: <br />
 https://testnet.manu.backend.hamburg/faucet <br />
 https://testnet.coinfaucet.eu/en/
 
-#### explorers
-
+explorers: <br />
 https://live.blockcypher.com/btc-testnet/ <br />
 https://www.blocktrail.com/tBTC
 
