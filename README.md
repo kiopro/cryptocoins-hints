@@ -1,65 +1,61 @@
-# cryptocoins-hints
+# TESTNET FAUCETS + EXPLORERS
 
+## BTC
 
-###### TESTNET FAUCETS + EXPLORERS ######
+#### faucets
 
---- BTC ---
-
-// faucets
 https://testnet.manu.backend.hamburg/faucet
 https://testnet.coinfaucet.eu/en/
 
 //explorers
+
 https://live.blockcypher.com/btc-testnet/
 https://www.blocktrail.com/tBTC
 
---- ETH ---
+## ETH
 
-/// ropsten testnet network
+#### ropsten testnet network
 faucet: http://faucet.ropsten.be:3001/
 explorer: https://ropsten.etherscan.io/
 
---- DASH ---
+## DASH 
 
 faucet: https://test.faucet.dash.org/
 explorer: http://test.insight.masternode.io:3001/ 
 
---- BTC ABC ---
+## BTC ABC 
 
 faucet: https://testnet.manu.backend.hamburg/bitcoin-cash-faucet
 explorer: https://www.blocktrail.com/tBCC
 
---- LITECOIN ---
+## LITECOIN 
 
 faucet: http://testnet.litecointools.com/
 explorer: http://explorer.litecointools.com/
 
 
+# REALWORL EXPLORERS
 
-##########################
-### REALWORL EXPLORERS ###
-##########################
-
---- BTC ---
+## BTC 
 
 https://www.blocktrail.com/BTC
 https://live.blockcypher.com/btc/
 
---- ETH ---
+## ETH
 
 https://etherscan.io/
 
---- DASH ---
+## DASH
 
 https://chainz.cryptoid.info/dash/
 
 
---- BITCOIN CASH ---
+## BITCOIN CASH 
 
 https://www.blocktrail.com/BCC
 https://blockchair.com/bitcoin-cash/blocks
 
 
---- LITECOIN ---
+## LITECOIN
 
 https://live.blockcypher.com/ltc/
