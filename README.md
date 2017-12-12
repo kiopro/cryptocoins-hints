@@ -42,7 +42,7 @@ faucet: http://testnet.litecointools.com/ <br />
 explorer: http://explorer.litecointools.com/
 
 
-# REALWORL EXPLORERS
+# REALWORLD EXPLORERS
 
 
 ### BTC 
